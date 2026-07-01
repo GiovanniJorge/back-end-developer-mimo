@@ -8,8 +8,7 @@ Projetos relacionados ao curso "Back-End Developer" da Mimo — coleção de exe
 - Código comentado e documentado para facilitar compreensão.
 
 ## Badges
-- Linguagem: JavaScript
-- Licença: MIT (ver arquivo LICENSE, se presente)
+- Licença: MIT (ver arquivo LICENSE)
 
 ## Sumário
 - [Visão geral](#visão-geral)
@@ -125,4 +124,3 @@ Este repositório utiliza a licença MIT — consulte o arquivo `LICENSE` na rai
 ## Autor / Contato
 **Autor:** Giovanni Jorge  
 **Repositório:** https://github.com/GiovanniJorge/back-end-developer-mimo  
-**Curso:** Back-End Developer - Mimo
