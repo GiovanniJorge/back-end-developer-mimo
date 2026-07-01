@@ -119,7 +119,7 @@ Contribuições são bem-vindas (ex.: correções, melhorias de código, novos p
 5. Abrir um Pull Request descrevendo as mudanças e o contexto.
 
 ## Licença
-Este repositório utiliza a licença MIT — consulte o arquivo `LICENSE` na raiz, se presente.
+Este repositório utiliza a licença MIT — consulte o arquivo `LICENSE` na raiz.
 
 ## Autor / Contato
 **Autor:** Giovanni Jorge  
