@@ -122,5 +122,5 @@ Contribuições são bem-vindas (ex.: correções, melhorias de código, novos p
 Este repositório utiliza a licença MIT — consulte o arquivo `LICENSE` na raiz.
 
 ## Autor / Contato
-**Autor:** Giovanni Jorge  
-**Repositório:** https://github.com/GiovanniJorge/back-end-developer-mimo  
+Autor: Giovanni Jorge  
+Repositório: https://github.com/GiovanniJorge/back-end-developer-mimo  
