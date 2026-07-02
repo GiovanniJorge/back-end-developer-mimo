@@ -1,6 +1,6 @@
 # Back-End Developer - Mimo
 
-Projetos relacionados ao curso "Back-End Developer" da Mimo — coleção de exercícios práticos e projetos educacionais para aprendizagem de desenvolvimento back-end. Ideal para estudantes que desejam fortalecer seus conhecimentos em arquitetura, APIs, bases de dados e boas práticas de desenvolvimento.
+Projetos relacionados ao curso "Back-End Developer" da Mimo — coleção de exercícios práticos e projetos educacionais para aprendizagem de desenvolvimento back-end. Ideal para estudantes que desejam aprimorar suas habilidades em desenvolvimento backend.
 
 ## Conteúdo principal
 - Projetos focados em problemas práticos e didáticos para aprendizagem de desenvolvimento back-end.
@@ -20,27 +20,29 @@ Projetos relacionados ao curso "Back-End Developer" da Mimo — coleção de exe
 - [Autor / Contato](#autor--contato)
 
 ## Visão geral
-Este repositório organiza projetos em JavaScript que exemplificam conceitos de desenvolvimento back-end, incluindo manipulação de APIs, estruturação de dados, padrões de design e resolução de problemas práticos. Cada projeto ou pasta aborda um tema específico do curso e está estruturado de forma educacional.
+Este repositório organiza projetos em JavaScript que exemplificam conceitos de desenvolvimento back-end, incluindo manipulação de APIs, estruturação de dados, padrões de design e resolução de problemas práticos do curso.
 
 ## Estrutura do repositório
 Top-level:
 ```text
 ├── README.md
+├── LICENSE
 ├── .gitignore
-├── [projeto-1]/              # Primeiro projeto ou tópico
-│   ├── index.js
-│   ├── package.json
-│   └── [outros arquivos]
-├── [projeto-2]/              # Segundo projeto ou tópico
-│   ├── index.js
-│   ├── package.json
-│   └── [outros arquivos]
-└── [projeto-n]/              # Demais projetos/tópicos
+├── .gitattributes
+└── projetos-finais/              # Projetos finais do curso
+    └── quiz/                     # Projeto de Quiz com API REST
+        ├── app.js
+        ├── Question.js
+        ├── Quiz.js
+        ├── database.js
+        └── quizRoutes.js
 ```
 
 ### Como se encaixa:
-- Cada pasta contém um projeto independente ou um tópico específico do curso. A forma usual de usar o repositório é instalar as dependências do projeto desejado e executar.
-- Cada projeto possui seu próprio `package.json` com as dependências necessárias.
+- O repositório contém projetos práticos desenvolvidos durante o curso Back-End Developer da Mimo.
+- Cada projeto está localizado em sua própria pasta dentro de `projetos-finais/`.
+- Os arquivos incluem classes, rotas de API, configuração de banco de dados e arquivo principal da aplicação.
+- Execute diretamente usando Node.js sem necessidade de arquivo de configuração separado em cada projeto.
 
 ## Pré-requisitos
 - **Node.js** (v14 ou superior)
@@ -50,29 +52,25 @@ Top-level:
 
 ### Instalação geral
 ```bash
-git clone [https://github.com/GiovanniJorge/back-end-developer-mimo.git](https://github.com/GiovanniJorge/back-end-developer-mimo.git)
+git clone https://github.com/GiovanniJorge/back-end-developer-mimo.git
 cd back-end-developer-mimo
 ```
 
 ### Executar um projeto específico
-Navegue até a pasta do projeto e instale as dependências:
+Navegue até a pasta do projeto desejado dentro de `projetos-finais/`:
 ```bash
-cd [nome-do-projeto]
-npm install
+cd projetos-finais/quiz
 ```
 
 Execute o projeto:
 ```bash
-npm start
-# ou
-node index.js
+node app.js
 ```
 
 ### Exemplo prático:
 ```bash
-cd meu-primeiro-projeto
-npm install
-npm start
+cd projetos-finais/quiz
+node app.js
 ```
 
 ## Contribuindo
