@@ -9,6 +9,7 @@ Projetos relacionados ao curso "Back-End Developer" da Mimo — coleção de exe
 
 ## Badges
 ![Licença](https://img.shields.io/github/license/GiovanniJorge/back-end-developer-mimo?style=flat-square)
+![Projetos](https://img.shields.io/badge/quantidade-1%20projeto-blue?style=flat-square)
 
 ## Sumário
 - [Visão geral](#visão-geral)
@@ -27,7 +28,6 @@ Top-level:
 ```text
 ├── README.md
 ├── LICENSE
-├── .gitignore
 ├── .gitattributes
 └── projetos-finais/              # Projetos finais do curso
     └── quiz/                     # Projeto de Quiz com API REST
