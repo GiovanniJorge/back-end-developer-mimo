@@ -27,6 +27,7 @@ Este repositório organiza projetos em JavaScript que exemplificam conceitos de 
 Top-level:
 ```text
 ├── README.md
+├── .gitignore
 ├── LICENSE
 ├── .gitattributes
 └── projetos-finais/              # Projetos finais do curso
