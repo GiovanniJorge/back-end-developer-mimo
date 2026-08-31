@@ -1,21 +1,11 @@
 # Back-End Developer - Mimo
 
 <p align="center">
-    <a href="https://nodejs.org/">
-        <img src="https://img.shields.io/badge/Node.js-18.x-339933?logo=node.js&logoColor=white" alt="Node.js">
-    </a>
-    <a href="https://expressjs.com/pt-br/">
-        <img src="https://img.shields.io/badge/Express-4.x-000000?logo=express&logoColor=white" alt="Express">
-    </a>
-    <a href="https://www.sqlite.org/">
-        <img src="https://img.shields.io/badge/SQLite-better--sqlite3-003B57?logo=sqlite&logoColor=white" alt="SQLite">
-    </a>
-    <a href="#">
-        <img alt="Status" src="https://img.shields.io/badge/status-concluído-brightgreen" />
-    </a>
-    <a href="LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
-    </a>
+    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-18.x-339933?logo=node.js&logoColor=white" alt="Node.js"></a>
+    <a href="https://expressjs.com/pt-br/"><img src="https://img.shields.io/badge/Express-4.x-000000?logo=express&logoColor=white" alt="Express"></a>
+    <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-better--sqlite3-003B57?logo=sqlite&logoColor=white" alt="SQLite"></a>
+    <a href="#"><img src="https://img.shields.io/badge/status-concluído-brightgreen" alt="Status"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License"></a>
 </p>
 
 ## Sumário
